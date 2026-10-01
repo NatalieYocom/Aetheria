@@ -8,6 +8,7 @@ Project Status: Planning Phase
 
 
 Directory
+
 **Unity Client/Dedicated Server:**
 [NatalieYocom/Aetheria-Unity](https://github.com/NatalieYocom/Aetheria-Unity)
 
