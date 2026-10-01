@@ -4,8 +4,10 @@ This repo is a directory and planning repo for the game.
 
 Project Status: Planning Phase
 
-There will be no code changes/additions in this phase
+**There will be no code changes/additions in this phase**
 
+
+Directory
 **Unity Client/Dedicated Server:**
 [NatalieYocom/Aetheria-Unity](https://github.com/NatalieYocom/Aetheria-Unity)
 
