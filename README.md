@@ -2,9 +2,9 @@
 Aetheria is a VR/Flatscreen social game similar to VRChat, built with the Basis platform.
 This repo is a directory and planning repo for the game.
 
-Project Status: Planning phase
+Current Status: PLANNING
 
-**There will be no code changes/additions in this phase**
+The project is under the planning phase. No development will be made in this stage.
 
 
 
