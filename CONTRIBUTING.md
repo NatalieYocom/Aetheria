@@ -22,5 +22,3 @@ We follow standard GitHub pull request practices across all Aetheria repositorie
 
 ```text
 Fork / Branch ──► Commit Changes ──► Open Pull Request ──► Code Review ──► Merge to Main
-
-Issues can be made to request features, and request for bugs to be fixed.
