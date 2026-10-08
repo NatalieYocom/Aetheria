@@ -52,4 +52,4 @@ Aetheria relies on the following open-source software, cloud frameworks, and inf
 
 ---
 
-*Thank you to all the creators, open-source maintainers, and community developers who make decentralized, sovereign virtual spaces possible.*
+*Thank you to all the creators, open-source maintainers, and community developers who make this project possible!*
