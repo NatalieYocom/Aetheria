@@ -16,6 +16,7 @@ The core foundation of Aetheria's social backend and client ecosystem is powered
 
 * **BasisVR Social Service (`Aetheria-Social-Backend`):**
   * **Upstream Repository:** [`basisvr-creator-group/basisvr-social-service`](https://github.com/basisvr-creator-group/basisvr-social-service)
+  * **Original Creator:** Momonth (*saint4626*)
   * **Role:** Core C# .NET Web API providing user identity, authentication, real-time presence, matchmaking, and asset indexing interfaces.
 
 ---
