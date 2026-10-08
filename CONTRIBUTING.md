@@ -1,6 +1,6 @@
 # 🤝 Contributing to Aetheria
 
-Thank you for your interest in contributing to **Aetheria**! We are building an open, decentralized, and safe social ecosystem. Whether you are fixing a typo in our planning specifications, improving documentation, submitting backend C# code, or creating visual web components, your help is welcome.
+We are building an open, decentralized, and safe social ecosystem. Whether you are fixing a typo in our planning specifications, improving documentation, submitting backend C# code, or creating visual web components, your help is welcome.
 
 ---
 
