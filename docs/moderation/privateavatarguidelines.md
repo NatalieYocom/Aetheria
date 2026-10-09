@@ -1,0 +1,14 @@
+## Private Avatar Guidelines/Rules
+- Any content involving real-world illegal acts, child exploitation, extreme real-world violence, or depictions of mass violence/terrorism are not allowed.
+- Avatars containing code, shaders, scripts, or geometry designed to crash other players' games, freeze clients, or exploit platform vulnerabilities are not allowed.
+- Direct hate speech, slurs, or real-world hate group symbols/propaganda will not be tolerated and will result in the ban of the uploader.
+- Valid DMCA takedown requests from copyright holders will be honored across all avatar visibility types.
+- Genitalia, nudity, and explicit NSFW content are permitted on private or unlisted avatars
+- NSFW avatars must not be equipped or shown in public lobbies.
+- If you wear an NSFW avatar in a public instance, your account will receive disciplinary action rather than the avatar being banned. This protects original creators from having their avatars target-banned by malicious users.
+- You may not upload private or unlisted avatars created specifically to harass, slander, doxx, or impersonate real individuals or community members.
+- If you share an unlisted link or give access to a private avatar, you are responsible for ensuring those users are aware of the in-game usage rules.
+- Avatars must not exceed extreme hard technical caps (e.g., memory-overflow shaders, excessive file sizes) that cause platform-wide degradation or server crashes.
+- While custom audio is permitted on private avatars, intentionally weaponizing audio (e.g., ear-rape/deafening noise scripts) to disrupt other players in shared instances is prohibited.
+- When an avatar that you have/uploaded was banned or flagged, The avatar will be unequipped and removed/hidden from your inventory and you will be notified of what was removed and why.
+- If an avatar contains illegal content, it will be removed, and the uploader will receive a permanent ban.
