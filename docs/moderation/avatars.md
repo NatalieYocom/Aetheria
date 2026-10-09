@@ -1,4 +1,4 @@
 ## Avatar Moderation
-Avatars will have 3 visibility types:
--
-Public, Private, and Unlisted
+Avatars will have 3 visibility types: Public, Private, and Unlisted
+
+When public,
