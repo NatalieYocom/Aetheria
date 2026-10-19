@@ -1,3 +1,3 @@
 # Trust Ranks
-- Visitor
+## Visitor
 New accounts are given this rank.
