@@ -21,5 +21,3 @@ Handpicked by staff. Can kick people and can flag users for suspension, but not 
 
 ## Staff Member
 Can perform all moderation related actions, including suspensions, kicks, etc. Can join any room/instance, other than private instances. Can put rooms and avatars under review. Can review moderation logs and settings.
-
-
