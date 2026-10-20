@@ -9,3 +9,10 @@ Has created at least 1 public world or custom avatar set that meets performance 
 
 ### Group Owner/Community Organizer
 Run a group or community that hosts public events, performance troupes, or educational meetups.
+
+### Application and Review Process
+Server runs security checks  
+- Strikes < 3
+- Atleast a Trusted User
+- 2FA enabled
+Application sent to moderation team.
