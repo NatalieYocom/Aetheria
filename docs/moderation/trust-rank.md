@@ -8,10 +8,10 @@ New accounts are given this rank. They are restricted to pre-approved fallback a
 A visitor becomes a new user after **their email is verified and they have played the game for at least two weeks.** New users gain the ability to publish private worlds for personal use, create Friends+ and Invite+ instances, Use custom avatars and upload private avatars.
 
 ## User
-After playing the game for **four or more** weeks (or being promoted by an admin) A user gains all permissions including hosting public lobbies, using and publishing public avatars, etc.
+After playing the game for **4 or more** weeks (or being promoted by an admin) A user gains all permissions including hosting public lobbies, using avatars, etc.
 
 ## Trusted User
-After visiting 10 unique rooms, playing for atleast a month, and have not recieved more than 3 rule violations, a user becomes a Trusted User.
+After visiting 10 unique rooms, playing for atleast two months, and have not recieved more than 2 rule violations, a user becomes a Trusted User. If you recieve a rule violation, unless appealed, you will be demoted to User.
 
 ## Verified User
 Gaining the Verified User trust rank can only be achieved if you **apply for it and get accepted.** Guidelines are listed in a different file.
