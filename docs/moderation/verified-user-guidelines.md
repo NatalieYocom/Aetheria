@@ -15,4 +15,4 @@ Server runs security checks
 - Strikes < 3
 - Atleast a Trusted User
 - 2FA enabled
-Application sent to moderation team.
+- Application sent to moderation team.
