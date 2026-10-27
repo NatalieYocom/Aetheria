@@ -3,7 +3,7 @@
 Get the game services running using a cheap or free DNS setup.
 
 * **Primary DNS / Game Services:** Buy **`aetheria.zone`** (~$2–$4 for Year 1) or **`aetheria.xyz`** (~$1.50–$2 for Year 1) on budget-friendly registrars like **Porkbun** or **Spaceship**.
-* **Backend Infrastructure:** Route subdomains to your free backend providers:
+* **Backend Infrastructure:** Route subdomains to free backend providers:
 * `api.aetheria.zone` $\rightarrow$ Vercel / Render (Handles game auth and master server API with free SSL)
 * `play.aetheria.zone` $\rightarrow$ Points to your game server host or dynamic DNS (e.g., DuckDNS)
 
