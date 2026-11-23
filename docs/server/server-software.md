@@ -11,7 +11,9 @@ The Social Server handles:
 - Discord handling (Discord bot, ticket system, other commands)
 ## Game Server
 The game server handles:  
-- Instances (runs them when requested from the social server)
+- Voice chat management
+- Realtime user movement sync
+- Instance networking
 
 
 
