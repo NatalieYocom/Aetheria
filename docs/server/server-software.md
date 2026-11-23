@@ -9,6 +9,7 @@ The Social Server handles:
 - Image management (uploads, comments, likes)
 - Administration systems (Admin panel, auto moderation)
 - Discord handling (Discord bot, ticket system, other commands)
+
 ## Game Server
 The game server handles:  
 - Voice chat management
