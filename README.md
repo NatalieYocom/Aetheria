@@ -13,4 +13,6 @@ This repo is a directory and planning repo for the game.
 **Website:**
 [NatalieYocom/Aetheria-Website](https://github.com/NatalieYocom/Aetheria-Website)
 
+>[!NOTE]
+>Some of the documentation is written with AI, but any AI generated documentation will be replaced with human written documentation.
 
