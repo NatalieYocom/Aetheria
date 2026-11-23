@@ -1,11 +1,19 @@
-## Software Documentation
-There will be two servers, the social server and the game server.\
+# Software Documentation
+There will be two servers, the social server and the game server.
 
-### Social Server
-The social server handles all social related systems, such as friend requests, profile handling, etc.(via basisvr-social-service)\
-The server will handle all moderation and administration systems, and will host the admin dashboard.\
-The server will connect to the other server to handle instances, invites, etc.\
-The server lastly runs all avatar related systems (uploading, sharing)\
+## Social Server
+The Social Server handles:  
+- Profile management (Profile pictures, Bio management, Status)
+- Instance management (invites, instance creation, instance listing)
+- Avatar management (uploading avatars, avatar listing, avatar sharing)
+- Image management (uploads, comments, likes)
+- Administration systems (Admin panel, auto moderation)
+- Discord handling (Discord bot, ticket system, other commands)
+## Game Server
+The game server handles:  
+- Instances (runs them when requested from the social server)
+
+
 
 
 
